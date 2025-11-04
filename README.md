@@ -21,19 +21,13 @@ El notebook fue hecho para entender paso a paso cómo entrena, predice y evalúa
 
 ---
 
+## Referencias
+Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow.
+Rosenblatt, F. (1958). The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain.
+
+---
+
 ## Requisitos
 Para ejecutar el notebook se necesitan las siguientes librerías:
 ```bash
 pip install scikit-learn matplotlib numpy
-
-
-Referencias
-Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow.
-Rosenblatt, F. (1958). The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain.
-
-
-
-
-
-
-
